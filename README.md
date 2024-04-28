@@ -31,8 +31,8 @@ Welcome to the Hostel Room Selection Website repository! This project aims to si
 - LM Studio: It was used in the background to provide a local server for LLM inference. Llama 3 was used in the server.
 
 ## Images of the Project
-![ChatBot Interaction](\Images of the project\mech1.png)
-![ChatBot Interaction](\Images of the project\mech2.png)
+![ChatBot Interaction](/Images of the project/mech1.png)
+![ChatBot Interaction](/Images of the project/mech2.png)
 
 ## Contributors
 - [Your Name](https://github.com/AravJain007)
