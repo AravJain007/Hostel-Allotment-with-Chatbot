@@ -28,6 +28,10 @@ Welcome to the Hostel Room Selection Website repository! This project aims to si
 - React Router: Library for declarative routing in React applications.
 - React Slick: Carousel component for displaying room images.
 - CSS: Styling for components.
+- LM Studio: It was used in the background to provide a local server for LLM inference. Llama 3 was used in the server.
+
+## Images of the Project
+
 
 ## Contributors
 - [Your Name](https://github.com/AravJain007)
