@@ -1,0 +1,36 @@
+/* ShowRooms.css */
+.room-images-container {
+    text-align: center;
+  }
+  
+  .slideshow {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .navibar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0ad4e;
+    color: white;
+    padding: 0px 0px;
+    width: 100%;
+  }
+  .left {
+    display: flex;
+  }
+  
+  .right {
+    display: flex;
+  }
+
+  .slideshow img {
+    max-width: 100%;
+    max-height: 600px;
+  }  
+
+  .infoLink {
+    color: white;
+    text-decoration: none;
+  }
