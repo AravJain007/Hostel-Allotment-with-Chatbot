@@ -35,7 +35,7 @@ Welcome to the Hostel Room Selection Website repository! This project aims to si
 ![ChatBot Interaction](/Images/mech2.png)
 
 ## Contributors
-- [Your Name](https://github.com/AravJain007)
+- [Arav Jain](https://github.com/AravJain007)
 
 ## Feedback
 If you have any feedback, suggestions, or issues, feel free to [open an issue](https://github.com/AravJain007/hostel-room-selection/issues) or [create a pull request](https://github.com/yourusername/hostel-room-selection/pulls).
